@@ -1,0 +1,1 @@
+# LAB_07-Manage_Azure_Storage
